@@ -1,0 +1,24 @@
+﻿body {
+}
+
+.youbikeListview {
+    /*width: 44% !important;*/
+    margin:10px 10px 10px 10px;
+    width:80%;
+    height:60px;
+    /*float: left;*/
+    border: 1px solid #ccc !important;
+    /*box-shadow: 0 2px 3px rgba(0, 0, 0, 0.25);*/
+    border: 1px blue solid;    
+    cursor:pointer;
+}
+
+.youbikeListview :hover {
+    background:green;
+    color: red;
+    font-size: 120%;
+    width: 300px;
+ }
+
+
+
