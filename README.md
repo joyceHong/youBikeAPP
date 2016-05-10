@@ -1,0 +1,2 @@
+# youBikeAPP
+結合youbike的經緯度呈現在googlaMAP 的旗標mark，讓人一目瞭然附近的YOUBIKE站有哪些，並且可以搜尋最近的YOUBIKE站的最佳路徑(GOOGLE MAP navigation)
